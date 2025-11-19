@@ -1,5 +1,5 @@
 # 💫 About Me:
-Saya adalah mahasiswa jurusan Teknologi Informasi di UIN mataram yang memiliki minat besar dalam pengembangan teknologi
+Saya adalah mahasiswa jurusan Teknologi Informasi dengan minat besar dalam pengembangan website, aplikasi, dan software. Fokus saya adalah menciptakan solusi digital yang mempermudah pekerjaan mulai dari penerimaan informasi, pengiriman data, pengeditan konten, hingga pengelolaan informasi secara lebih efisien.
 
 
 ## 🌐 Socials:
